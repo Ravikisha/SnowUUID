@@ -1,4 +1,4 @@
-![Banner](./docs/banner.png)
+![Banner](https://ravikisha.github.io/assets/SnowUUID.png)
 # SnowUUID
 
 **SnowUUID** is a distributed UUID generator that implements the Snowflake algorithm, designed to create unique identifiers that can be generated across multiple nodes without collision. Each generated ID contains timestamp, worker ID, datacenter ID, and a sequence number.
